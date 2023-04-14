@@ -266,7 +266,7 @@ input{
       
         width: 50%;
         margin-left: -100px;
-        margin-top: -222%;
+        margin-top: -190%;
         padding-bottom: 500px;
     }
     .about,.contact{
@@ -325,6 +325,10 @@ input{
         justify-content: center;
         padding-left: 10px;
     }
+    .resume .title{
+        font-size: 22px;
+       margin-left: 1px;
+        }
 }
 
 @media screen and (min-width: 577px) and (max-width: 992px) {
